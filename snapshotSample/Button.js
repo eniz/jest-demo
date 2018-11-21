@@ -1,7 +1,3 @@
-/** @format */
-/**
- * External dependencies
- */
 import React, { PureComponent } from 'react';
 import classNames from 'classnames';
 
