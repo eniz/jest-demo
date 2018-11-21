@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly a tag 1`] = `
+<a
+  className="button"
+  href="https://www.otel.com"
+>
+  Otel.com
+</a>
+`;
+
+exports[`renders correctly button tag 1`] = `
+<button
+  className="button"
+  type="submit"
+>
+  Send
+</button>
+`;
